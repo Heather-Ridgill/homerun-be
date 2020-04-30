@@ -41,9 +41,6 @@
     "purecrypt": "^1.0.4",
     "supertest": "^4.0.2"
   },
-  "repository": "https://github.com/Lambda-School-Labs/homerun-be.git",
-  "author": "[Brandon] <desselle.brandon2@gmail.com>",
-  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.2"
   }
